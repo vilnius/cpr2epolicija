@@ -1,0 +1,10 @@
+properties.epolicija-service-url=http://zeitz-dev.policija.lt:8080/epolice-portlets/cxf-services/s2s
+properties.default-sender-code=GIVENSENDERCODE
+
+properties.private-key=classpath:keys/cprkey.pem
+properties.private-key-password=thy-shall-not-pass
+properties.certificate=classpath:keys/cprcer.pem
+
+server.port=9000
+
+logging.path=logs
